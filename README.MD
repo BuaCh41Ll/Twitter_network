@@ -1,0 +1,1 @@
+This repo contains the code which creates a network for a seed user. Note that the seed user is a Twitter user chosen at random and with a small number of followers/following.
